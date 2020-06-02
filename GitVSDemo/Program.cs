@@ -7,6 +7,7 @@ namespace GitVSDemo
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			// added comment
 		}
 	}
 }
